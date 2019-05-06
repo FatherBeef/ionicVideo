@@ -1,6 +1,8 @@
 {
   "name": "videoUpload",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "520b090d"
 }
